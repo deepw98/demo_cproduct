@@ -2,7 +2,7 @@
   "steps":[
     {
       "id":1,
-      "screen":"assets/screens/stockproductcreate1.webp",
+      "screen":"assets/screens/stockproductcreate1.png",
 
       "hotspot":{
         "x":47.72,
