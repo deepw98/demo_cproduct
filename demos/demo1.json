@@ -1,0 +1,123 @@
+{
+  "steps":[
+    {
+      "id":1,
+      "screen":"assets/screens/stockproductcreate1.webp",
+
+      "hotspot":{
+        "x":47.72,
+        "y":24.11,
+        "width":4,
+        "height":3
+      },
+
+      "tooltip":{
+        "text":"Login to your sps account."
+      },
+
+      "next":2
+    },
+    {
+      "id":2,
+      "screen":"assets/screens/stockproductcreate2.1.png",
+
+      "hotspot":{
+        "x":12.13,
+        "y":6.04,
+        "width":3.5,
+        "height":4.6
+      },
+
+      "tooltip":{
+        "text":"Go to the lists tab."
+      },
+
+      "next":3
+    },
+    {
+      "id":3,
+      "screen":"assets/screens/stockproductcreate2.1.png",
+
+      "hotspot":{
+        "x":34.63,
+        "y":23.36,
+        "width":1,
+        "height":2.4
+      },
+
+      "tooltip":{
+        "text":"Click on the plus '+' sign."
+      },
+
+      "next":4
+    },
+     {
+      "id":4,
+      "screen":"assets/screens/stockproductcreate4.webp",
+
+      "hotspot":{
+        "x":9.04,
+        "y":16.50,
+        "width":4,
+        "height":3
+      },
+
+      "tooltip":{
+        "text":"A form for product will open."
+      },
+
+      "next":5
+    },
+     {
+      "id":5,
+      "screen":"assets/screens/stockproductcreate5.webp",
+
+      "hotspot":{
+        "x":15.15,
+        "y":1.21,
+        "width":4,
+        "height":3
+      },
+
+      "tooltip":{
+        "text":"Fill information regarding the product."
+      },
+
+      "next":6
+    },
+     {
+      "id":6,
+      "screen":"assets/screens/stockproductcreate6.1.png",
+
+      "hotspot":{
+        "x":75.94,
+        "y":93.63,
+        "width":10.6,
+        "height":3.8
+      },
+
+      "tooltip":{
+        "text":"Click on the 'Add New Product' button located on the bottom-right corner of the form."
+      },
+
+      "next":7
+    },
+     {
+      "id":7,
+      "screen":"assets/screens/stockproductcreate7.webp",
+
+      "hotspot":{
+        "x":39.92,
+        "y":16.74,
+        "width":4,
+        "height":3
+      },
+
+      "tooltip":{
+        "text":"An overview of product will appear. The product now has been saved in the SPS."
+      },
+
+      "next":null
+    }
+  ]
+}
